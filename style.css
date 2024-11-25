@@ -1,0 +1,20 @@
+/*Navigation*/
+nav ul{
+padding: 10;
+margin: 10;
+}
+
+
+nav li{
+ display: inline-block;
+ margin-right: 20px;
+}
+body{
+    background-color: rgb(23, 211, 80);
+    Color: white; 
+
+ max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+}
+h2{ color: peru;}
